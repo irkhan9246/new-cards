@@ -1,0 +1,40 @@
+.top {
+    color:black;
+    font-size: medium;
+    text-align: center;
+}
+.button {
+    background-color:green;
+    color:white;
+    width: 150px;
+    height: 40px;
+    font-size:20px;
+    font-weight: 600px;
+    
+}
+.paragraph{
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.image{
+    width: 380px;
+    height: 245px;
+}
+.maindiv {
+    border: 2px solid black;
+    width: 400px;
+    
+    padding: 30px;
+    background-color: white;
+}
+.body{
+    background-color: rgb(212, 209, 209);
+}
+.top2 {
+    color: blue;
+    font-size: medium;
+}
+.parent{
+    display: flex;
+}
